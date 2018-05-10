@@ -1,0 +1,21 @@
+{
+    "window.zoomLevel": 1,
+    "[latex]": {
+        "editor.wordWrap": "on"
+    },
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#000000",
+        "panel.background": "#000000",
+        "panel.border": "#333333",
+        "sideBar.background": "#000000",
+        "contrastActiveBorder": "#adadad",
+        "contrastBorder": "#333333",
+        "editor.background": "#000000",
+        "editorGroup.background": "#000000",
+        "tab.inactiveBackground": "#000000",
+        "activityBar.background": "#000000"
+    },
+    "workbench.colorTheme": "dark-plus-syntax"
+}
+
